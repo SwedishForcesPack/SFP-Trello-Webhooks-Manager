@@ -9,9 +9,7 @@
   "author": "Björn Dahlgren",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "trello": "^0.8.0"
-  },
-  "devDependencies": {
-    "dotenv": "^4.0.0"
   }
 }
