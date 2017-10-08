@@ -1,0 +1,17 @@
+{
+  "name": "sfp-trello-webhooks-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Björn Dahlgren",
+  "license": "MIT",
+  "dependencies": {
+    "trello": "^0.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
